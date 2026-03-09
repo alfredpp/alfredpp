@@ -96,4 +96,4 @@ B.Tech in Computer Science and Engineering - University of Calicut (2013)
 
 ## Currently
 
-Open to platform engineering roles focused on build infrastructure, CI/CD, and developer experience. Open to relocation to London or Helsinki.
+Open to platform engineering roles focused on build infrastructure, CI/CD, and developer experience.
